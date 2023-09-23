@@ -1,7 +1,7 @@
 # Hi there. I am Mohamed 👋 . Welcome to my Profile!!! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kritika-pattalam.repoName)
 
 - 🔭 I am Mohamed working as a Front End Engineer.
-- 💬 Ask me about: JavaScript, React, CSS.
+- 💬 Ask me about: JavaScript, React.
 - 📫 How to reach me: <a href="mailto:mohamedgomaafathi@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/mohamedgomaaf">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ## Tech Stack
 
