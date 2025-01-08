@@ -1,4 +1,4 @@
-# Hi there. I am Mohamed 👋 . Welcome to my Profile!!!
+# Hi there. I am Mohamed 👋 . Welcome to my Profile!!! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kritika-pattalam.repoName)
 
 - 🔭 I am Mohamed working as a Front End Engineer.
 - 💬 Ask me about: JavaScript, React.
